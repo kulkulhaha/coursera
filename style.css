@@ -37,3 +37,6 @@ textarea {
     text-align: center;
     vertical-align: middle;
 }
+.bg .sendmsg button:active {
+    background-color: #bdaf30;
+}
